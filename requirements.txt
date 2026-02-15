@@ -1,0 +1,7 @@
+moviepy==1.0.3
+edge-tts
+google-generativeai
+numpy<2.0.0
+decorator>=4.0.2
+imageio>=2.5.0
+Pillow<10.0.0

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.pytest_cache/
+
+# Environment Variables
+.env
+
+# Project Output
+output/*.mp4
+temp/
+!temp/.gitkeep
+
+# Project Assets (Exclude if large or proprietary, but here we keep them except maybe music if copyrighted)
+# assets/music/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
