@@ -2,7 +2,7 @@
 
 A local persistent video generation engine that creates 9:16 short-form videos from a text topic. It features two 2D avatars that discuss the topic using script generation, text-to-speech, and dynamic video composition.
 
-## Static Assets, Dynamic Code.
+### Static Assets, Dynamic Code.
 
 ## 🚀 Key Features
 
