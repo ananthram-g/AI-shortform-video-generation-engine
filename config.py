@@ -16,7 +16,7 @@ AVATAR_1_VOICE = "en-US-ChristopherNeural"
 AVATAR_2_VOICE = "en-US-AnaNeural"
 
 # Voice Speed (e.g., "+0%", "+10%", "-5%")
-VOICE_RATE = "+25%"#"+0%"
+VOICE_RATE = "+0%"
 
 # Script Generation
 # Target word count for the dialogue. 
